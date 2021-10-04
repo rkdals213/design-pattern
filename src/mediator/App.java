@@ -1,6 +1,6 @@
 package mediator;
 
-public class Main {
+public class App {
     static public void main(String args[]) {
         new LoginFrame("Mediator Sample");
     }
